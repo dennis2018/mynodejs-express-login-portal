@@ -16,3 +16,17 @@ and have all the user management taken care of.
 Why am I using mynodejs? Because it makes the authentication component really simple, and
 that's what I'm all about: *simple stuff*.
 
+## Prerequisites
+
+If you don't already have an Okta account, please go create one:
+[https://developer.okta.com/signup/](https://developer.okta.com/signup/).
+
+Okta accounts are free and last forever, you can use them to store the users for
+all of your applications, it's pretty nifty.
+
+Now go clone this GitHub repository locally and change into the directory:
+
+```bash
+git clone https://github.com/rdegges/okta-express-login-portal.git
+cd okta-express-login-portal
+```
