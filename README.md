@@ -29,7 +29,7 @@ all of your applications, it's pretty nifty.
 Now go clone this GitHub repository locally and change into the directory:
 
 ```bash
-git clone https://github.com/rdegges/okta-express-login-portal.git
+git clone https://github.com/dennis2018/okta-express-login-portal.git
 cd okta-express-login-portal
 ```
 Next, you'll need to go create an Okta application. You can do this by logging
