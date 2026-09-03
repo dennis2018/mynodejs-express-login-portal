@@ -9,11 +9,11 @@
     "node": "10.5.0"
   },
   "dependencies": {
-    "@okta/oidc-middleware": "^5.4.2",
+    "@okta/oidc-middleware": "^6.0.1",
     "@okta/okta-sdk-nodejs": "^7.1.1",
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "^4.22.2",
+    "express": "^5.2.1",
     "express-session": "^1.18.2",
     "http-errors": "~1.6.2",
     "morgan": "~1.10.1",
